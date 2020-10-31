@@ -1,0 +1,8 @@
+# ignore everything
+*
+# allow source files
+!package.json
+!package-lock.json
+!src
+!tsconfig.json
+
